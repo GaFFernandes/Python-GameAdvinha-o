@@ -1,5 +1,4 @@
 import random
-from sre_constants import REPEAT, REPEAT_ONE
 
 print("______________________________________________________________________")
 print("                   Bem vindo ao jogo da advinhação")
